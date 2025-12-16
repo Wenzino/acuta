@@ -91,13 +91,7 @@ sudo pacman -S nasm binutils
 
 ## Instalação e Compilação
 
-### 1. Clone o Repositório
-```bash
-git clone https://github.com/seu-usuario/acuta-projeto.git
-cd acuta-projeto
-```
-
-### 2. Estrutura de Ficheiros
+### 1. Estrutura de Ficheiros
 Certifique-se de que tem a seguinte estrutura:
 ```
 acuta-projeto/
@@ -109,7 +103,7 @@ acuta-projeto/
     └── lusiadas1.txt
 ```
 
-### 3. Compilar o Programa
+### 2. Compilar o Programa
 
 #### Passo 1: Assemblar o código
 ```bash
