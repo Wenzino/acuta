@@ -60,7 +60,7 @@ Converte caracteres portugueses acentuados para os seus equivalentes ASCII:
 
 ---
 
-## 🔧 Pré-requisitos
+## Pré-requisitos
 
 ### Software Necessário
 
@@ -89,7 +89,7 @@ sudo pacman -S nasm binutils
 
 ---
 
-## 🚀 Instalação e Compilação
+## Instalação e Compilação
 
 ### 1. Clone o Repositório
 ```bash
